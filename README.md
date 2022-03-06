@@ -2,12 +2,14 @@
 
 * **Full stack developer**
     * **Back-end frameworks**
-        <a href="https://codeigniter.com/">
+        <a href="https://codeigniter.com/" target="_blank">
         <img src="./assets/codeigniter.png" alt="code igniter" width="100" height="auto"/>
         </a>
-        * [![download](./assets/serverless.png)][2]
-        * [![download](./assets/logo_nestjs.svg)][1]
+        
+        <a href="https://www.serverless.com/" target="_blank">
+        <img src="./assets/serverless.png" alt="code igniter" width="100" height="auto"/>
+        </a>
 
-[1]: https://nestjs.com/
-[2]: https://www.serverless.com/
-[3]: https://codeigniter.com/
+        <a href="https://nestjs.com/" target="_blank">
+        <img src="./assets/logo_nestjs.svg" alt="code igniter" width="100" height="auto"/>
+        </a>
