@@ -2,7 +2,9 @@
 
 * **Full stack developer**
     * **Back-end frameworks**
-        * <img src="./assets/codeigniter.png" alt="code igniter" width="100" height="auto" onclick="https://codeigniter.com/"/>
+        <a href="https://codeigniter.com/">
+        <img src="./assets/codeigniter.png" alt="code igniter" width="100" height="auto"/>
+        </a>
         * [![download](./assets/serverless.png)][2]
         * [![download](./assets/logo_nestjs.svg)][1]
 
