@@ -1,7 +1,7 @@
 # **Joel Gonçalves**
 
-## * **Full stack developer**
-###    * **Back-end frameworks** 
+* **Full stack developer**
+    * **Back-end frameworks** 
         * [![download](./assets/codeigniter.png)][3]
         * [![download](./assets/serverless.png)][2]
         * [![download](./assets/logo_nestjs.svg)][1]
